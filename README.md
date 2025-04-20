@@ -1,6 +1,6 @@
 # SW-MCU-STM32-Fingerprint-044
 
-Here is test codes for a fingerprint sensor.(R503 Module is used)
+Here is a test code for a fingerprint sensor.(R503 Module is used)
 
 ## Setup:
 
