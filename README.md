@@ -17,7 +17,7 @@ Here is a test code for a fingerprint sensor.(R503 Module is used)
 
 <img width="615" alt="scan" src="https://github.com/user-attachments/assets/37020960-150d-4811-9bbb-361ea601d529" />
 
-(Scanning)	
+(Ready to Scan)	
 
 <img width="585" alt="matched" src="https://github.com/user-attachments/assets/f21a391e-27e8-4738-969e-a7b96b297fd9" />
 
